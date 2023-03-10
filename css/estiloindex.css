@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #24252A;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    background-color: #24252A;
+    font-family: 'Montserrat', sans-serif;
+    color: red;
+}
+
+h1{
+    font-weight: 600;
+}
+
+.contenedor{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    position: static;
+    width: 8%;
+    height: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:auto;
+    border-radius: 10px;
+}
+
